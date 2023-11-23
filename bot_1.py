@@ -6,9 +6,9 @@ from telebot import types
 import random
 from random import choice
 
-#BOT_TOKEN = os.environ.get("6524527794:AAFbilp4sVUrwEdqVqDSAf_IzGZ_nFv4ggY")
+#BOT_TOKEN = os.environ.get("6524527794:_nFv4ggY")
 
-bot = telebot.TeleBot("6524527794:AAFbilp4sVUrwEdqVqDSAf_IzGZ_nFv4ggY")
+bot = telebot.TeleBot("6524527794:AAFbilp4sVUrwEdqVqDSAf_IzGZ")
 
 spacefacts = ['Asenal chempin']
 
